@@ -1,0 +1,5 @@
+c:\users\anand\documents\visual studio 2010\Projects\REST2\REST2\bin\REST2.dll
+c:\users\anand\documents\visual studio 2010\Projects\REST2\REST2\bin\REST2.pdb
+c:\users\anand\documents\visual studio 2010\Projects\REST2\REST2\obj\Debug\REST2.csprojResolveAssemblyReference.cache
+c:\users\anand\documents\visual studio 2010\Projects\REST2\REST2\obj\Debug\REST2.dll
+c:\users\anand\documents\visual studio 2010\Projects\REST2\REST2\obj\Debug\REST2.pdb
